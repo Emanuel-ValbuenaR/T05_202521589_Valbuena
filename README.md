@@ -1,3 +1,5 @@
+<==========Léeme :)=========>
+
 # Taller T05 · Proyecto base
 
 La sala de portátiles. El programa ya está hecho; usted implementa los 4 temas.
